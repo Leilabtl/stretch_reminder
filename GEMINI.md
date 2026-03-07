@@ -1,0 +1,1 @@
+Create a Python script that opens a popup reminder every 30 minutes telling the user to stand up and stretch. The script should keep running and repeat the reminder until the user stops the program.
