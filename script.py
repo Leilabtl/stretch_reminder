@@ -1,7 +1,7 @@
 import time
 
-print("Stretch Reminder started!")
+print("Stretch Reminder started! The program will remind you every 30 minutes.")
 
-time.sleep(5)
-
-print("Time to stand up and stretch!")
+while True:
+    print("Reminder: Stand up and stretch!")
+    time.sleep(1800)
